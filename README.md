@@ -5,5 +5,5 @@ project.
 
 ## Utils
 
-- [AndroidUtils](/android-utils/src/main/java/com/java/utils/AndroidUtils.java) :- Provides OS related utility functions
+- [AndroidUtils](/blob/master/app/src/main/java/com/java/utils/AndroidUtils.java) :- Provides OS related utility functions
 
